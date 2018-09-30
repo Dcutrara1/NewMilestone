@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\NewMinesweeper\NewMinesweeper\bin\Debug\NewMinesweeper.exe.config
+C:\Users\HP\source\repos\NewMinesweeper\NewMinesweeper\bin\Debug\NewMinesweeper.exe
+C:\Users\HP\source\repos\NewMinesweeper\NewMinesweeper\bin\Debug\NewMinesweeper.pdb
+C:\Users\HP\source\repos\NewMinesweeper\NewMinesweeper\obj\Debug\NewMinesweeper.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\NewMinesweeper\NewMinesweeper\obj\Debug\NewMinesweeper.Form1.resources
+C:\Users\HP\source\repos\NewMinesweeper\NewMinesweeper\obj\Debug\NewMinesweeper.Properties.Resources.resources
+C:\Users\HP\source\repos\NewMinesweeper\NewMinesweeper\obj\Debug\NewMinesweeper.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\NewMinesweeper\NewMinesweeper\obj\Debug\NewMinesweeper.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NewMinesweeper\NewMinesweeper\obj\Debug\NewMinesweeper.exe
+C:\Users\HP\source\repos\NewMinesweeper\NewMinesweeper\obj\Debug\NewMinesweeper.pdb
+C:\Users\HP\source\repos\NewMinesweeper\NewMinesweeper\obj\Debug\NewMinesweeper.Minesweeper.resources
